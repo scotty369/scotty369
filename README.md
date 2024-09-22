@@ -28,6 +28,7 @@ Welcome to my portfolio, where I showcase my key projects:
 
 ---
 
-## 👋🏻 Connect with Me
-- [LinkedIn](#) – Let’s connect and grow together!
+## 👋🏻 Connect with Me on LinkedIn and Facebook!
+- LinkedIn [https://www.linkedin.com/in/scott-townsend-0ab515262/] – Let’s connect and grow together!
+- Facebook [https://www.facebook.com/scott.townsend.1650332/] - Add me if you want to chat!
 
