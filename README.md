@@ -1,5 +1,5 @@
 # Hi, I'm Scott!
-### Data Analyst with limited experience in data analysis, reporting, statistical modeling, machine learning, and data modeling.
+### Data Analyst with experience in data analysis, reporting, statistical modeling, machine learning, and data modeling.
 
 ---
 
