@@ -14,9 +14,9 @@
 ---
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my key projects:
+- **Description**: A collection of my personal projects showcasing my work in data analysis, statistical modeling, and machine learning.  
 
-
+- **Link**: [Personal Projects](https://github.com/scotty369/Personal----Projects)  
 
 *Feel free to explore my projects for detailed analysis and visualization.*
 
