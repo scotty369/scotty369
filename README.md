@@ -26,6 +26,7 @@
 - **Languages**: SQL, Python, R
 - **Databases**: MySQL
 - **Visualization**: Tableau, Power BI
+- **Version Control**: Git (GitHub)
 
 ---
 
