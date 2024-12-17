@@ -30,8 +30,8 @@
 ---
 
 ## Libraries
--**Python**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, Scikit-learn
--**R**: tidyr, dplyr, plotly, lubridate, stringr, shiny, ggplot2
+- **Python**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, Scikit-learn
+- **R**: tidyr, dplyr, plotly, lubridate, stringr, shiny, ggplot2
 
 
 ## 👋🏻 Connect with Me on LinkedIn and Facebook!
