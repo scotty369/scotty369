@@ -1,5 +1,5 @@
 # Hi, I'm Scott!
-### Data Analyst with experience in data analysis, reporting, statistical modeling, machine learning, and data modeling.
+### Data Scientist with experience in data analysis, reporting, statistical modeling, machine learning, and data modeling.
 
 ---
 
@@ -15,6 +15,7 @@
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my key projects:
+
 
 
 *Feel free to explore my projects for detailed analysis and visualization.*
