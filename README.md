@@ -25,6 +25,12 @@
 
 ---
 
+## 🚀 Portfolio
+Check out my personal portfolio for a more detailed overview of my skills and projects:  
+**[https://scotty369.github.io/](https://scotty369.github.io/)**
+
+---
+
 ## 🛠️ Tools
 - **Languages**: SQL, Python, R
 - **Databases**: MySQL
@@ -33,12 +39,12 @@
 
 ---
 
-## Libraries
+## 🗂️ Libraries
 - **Python**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, Scikit-learn
 - **R**: tidyr, dplyr, plotly, lubridate, stringr, shiny, ggplot2
 
+---
 
 ## 👋🏻 Connect with Me on LinkedIn and Facebook!
 - LinkedIn [https://www.linkedin.com/in/scott-townsend-0ab515262/] – Let’s connect and grow together!
 - Facebook [https://www.facebook.com/scott.townsend.1650332/] - Add me if you want to chat!
-
