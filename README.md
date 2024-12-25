@@ -18,6 +18,7 @@
 
 - [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)
 - [Student Performance Analysis](https://github.com/scotty369/DS350_FA24_Townsend_Scott/blob/master/week_14/Semester%20Project.html.md)
+- [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc)
 - [Population Growth Analysis](https://github.com/scotty369/DS350_FA24_Townsend_Scott/blob/master/week_09/W09%20Task%20-%20Data%20Search.html.md)
 
 *Feel free to explore my projects for detailed analysis and visualization.*
