@@ -16,7 +16,7 @@
 ## 📚 Projects
 - **Description**: A collection of my personal projects showcasing my work in data analysis, statistical modeling, and machine learning.  
 
-- **Link**: [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)  
+- [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)  
 
 *Feel free to explore my projects for detailed analysis and visualization.*
 
