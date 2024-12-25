@@ -2,6 +2,8 @@
 ### Data Scientist with experience in data analysis, reporting, statistical modeling, machine learning, and data modeling.
 
 ---
+## Resume
+
 
 ## 💼 Skills
 - Querying data using **SQL**
