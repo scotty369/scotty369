@@ -6,7 +6,7 @@
 - Querying data using **SQL**
 - Statistical modeling with **R**
 - Machine learning and Predictive modeling with **Python**
-- Generating reports and performing ad-hoc data analysis using SQL
+- Generating reports and performing data analysis using SQL
 - Developing interactive dashboards on **Tableau** and **Power BI**
 - Data analysis and reporting using **Google Sheets** and **Excel**
 
