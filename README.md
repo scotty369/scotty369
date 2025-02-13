@@ -1,6 +1,10 @@
 # Hi, I'm Scott!
 ### Data Scientist with experience in data analysis, reporting, statistical modeling, machine learning, and data modeling.
 
+## My Resume: 
+
+[Download My Work Experience (PDF)](https://github.com/scotty369/Resume-Quarto/blob/main/resume_scott.pdf)
+
 ---
 ## 💼 Skills
 - Querying data using **SQL**
