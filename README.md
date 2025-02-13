@@ -3,7 +3,7 @@
 
 ## My Resume: 
 
-[Download My Work Experience (PDF)](https://github.com/scotty369/Resume-Quarto/blob/main/resume_scott.pdf)
+[View My Resume (PDF)](https://github.com/scotty369/Resume-Quarto/blob/main/resume_scott.pdf)
 
 ---
 ## 💼 Skills
