@@ -12,9 +12,27 @@
 
 ---
 
+## 💻 Work Experience
+
+- **Description**: My work experience as a Data Analyst
+
+### Marcus Harris Foundation  
+**Data Entry Analyst, Intern** (December 2024 - Present) | Rexburg, ID  
+- Harvested data from the IRS tax-exempt organization database, gathering contact information of nonprofit organizations for marketing outreach campaigns.  
+- Analyzed email marketing campaign data, identifying trends and areas for improvement to enhance user engagement.  
+- Conducted data-driven analysis to optimize marketing efforts, providing actionable insights to improve campaign performance.  
+
+### Brigham Young University - Idaho  
+**Financial and Cost Data Analyst** (January 2025 - Present) | Rexburg, ID  
+- Conducted cost analysis and financial forecasting for AI tutor implementation, identifying a cost-saving opportunity by optimizing TA and AI model usage.  
+- Provided financial insights and recommendations to support university administration in adopting AI-driven academic support while ensuring FERPA compliance and institutional alignment.  
+
+---
+
 ## 📚 Projects
 - **Description**: A collection of my personal projects showcasing my work in data analysis, statistical modeling, and machine learning.  
 
+- [Image Captioning Tool CNN](https://github.com/scotty369/Senior-Data-Science-Project)
 - [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)
 - [Student Performance Analysis](https://github.com/scotty369/DS350_FA24_Townsend_Scott/blob/master/week_14/Semester%20Project.html.md)
 - [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc)
