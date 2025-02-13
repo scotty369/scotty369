@@ -26,21 +26,22 @@
 
 ## 🚀 Portfolio
 Check out my personal portfolio for a more detailed overview of my skills and projects:  
-**[https://scotty369.github.io/](https://scotty369.github.io/Scott-Townsend/)**
+**[https://scotty369.github.io/](https://scotty369.github.io/Blog_Project/)**
 
 ---
 
 ## 🛠️ Tools
 - **Languages**: SQL, Python, R
-- **Databases**: MySQL
+- **Tools**: VS Code, Positron, Databricks
+- **Databases**: MySQL, Azure
 - **Visualization**: Tableau, Power BI
 - **Version Control**: Git (GitHub)
 
 ---
 
 ## 🗂️ Libraries
-- **Python**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, Scikit-learn
-- **R**: tidyr, dplyr, plotly, lubridate, stringr, shiny, ggplot2
+- **Python**: Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn
+- **R**: tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2
 
 ---
 
