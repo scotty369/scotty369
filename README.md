@@ -48,7 +48,7 @@
 
 ## 🚀 Portfolio
 Check out my personal portfolio for a more detailed overview of my skills and projects:  
-**[https://scotty369.github.io/](https://scotty369.github.io/Blog_Project/)**
+**[https://scotty369.github.io/](https://scotty369.github.io/Blog_Project/about.html)**
 
 ---
 
