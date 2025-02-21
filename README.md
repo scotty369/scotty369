@@ -37,9 +37,9 @@
 - **Description**: A collection of my personal projects showcasing my work in data analysis, statistical modeling, and machine learning.  
 
 - [Image Captioning Tool CNN](https://github.com/scotty369/Senior-Data-Science-Project)
-- [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)
-- [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services)
 - [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc)
+- [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services)
+- [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)
 
 *Feel free to explore my projects for detailed analysis and visualization.*
 
