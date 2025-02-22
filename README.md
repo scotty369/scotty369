@@ -38,7 +38,7 @@
 
 - [Image Captioning Tool CNN](https://github.com/scotty369/Senior-Data-Science-Project)
 - [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc)
-- [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services)
+- [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services/blob/main/README.md)
 - [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)
 
 *Feel free to explore my projects for detailed analysis and visualization.*
