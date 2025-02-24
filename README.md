@@ -62,7 +62,7 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 
 ## 🗂️ Libraries
 - **Python**: Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn
-- **R**: tidyr, dplyr, ggplot/ggridges/ggplotly, lubridate, stringr, shiny, ggplot2
+- **R**: tidyr, dplyr, ggplot/ggridges/ggplotly, lubridate, stringr, shiny
 
 ---
 
