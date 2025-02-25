@@ -53,7 +53,7 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 
 ## 🛠️ Tools
 - **Languages**: SQL, Python, R
-- **Tools**: VS Code, Positron, Databricks
+- **Tools**: VS Code, Positron, RStudio, Databricks
 - **Databases**: MySQL, Azure
 - **Visualization**: Tableau, Power BI
 - **Version Control**: Git (GitHub)
