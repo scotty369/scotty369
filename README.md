@@ -6,13 +6,10 @@
 [View My Resume (PDF)](https://github.com/scotty369/Resume-Quarto/blob/main/resume_scott.pdf)
 
 ---
-## 💼 Skills
-- Querying data using **SQL**
-- Statistical modeling with **R**
-- Machine learning and Predictive modeling with **Python**
-- Generating reports and performing data analysis using SQL
-- Developing interactive dashboards on **Tableau** and **Power BI**
-- Data analysis and reporting using **Google Sheets** and **Excel**
+
+## 🚀 Portfolio
+Check out my personal portfolio for a more detailed overview of my skills and projects:  
+**[https://scotty369.github.io/](https://scotty369.github.io/Blog_Project/about.html)**
 
 ---
 
@@ -36,33 +33,30 @@
 ## 📚 Projects
 - **Description**: A collection of my personal projects showcasing my work in data analysis, statistical modeling, and machine learning.  
 
-- [Image Captioning Tool CNN](https://github.com/scotty369/Senior-Data-Science-Project/blob/main/README.md)
-- [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc)
-- [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services/blob/main/README.md)
-- [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md)
+- [Image Captioning Tool CNN](https://github.com/scotty369/Senior-Data-Science-Project/blob/main/README.md) - – Deep learning model for generating image captions.
+- [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc) - – Machine learning model predicting student performance.
+- [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services/blob/main/README.md) - Data analysis on streaming platform trends.
+- [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md) – Analyzing crime patterns and trends.
 
 *Feel free to explore my projects for detailed analysis and visualization.*
 
 ---
 
-## 🚀 Portfolio
-Check out my personal portfolio for a more detailed overview of my skills and projects:  
-**[https://scotty369.github.io/](https://scotty369.github.io/Blog_Project/about.html)**
+## 🛠️ Tech Stack 
 
----
+### Programming and Querying Languages
+- SQL, Python, R
 
-## 🛠️ Tools
-- **Languages**: SQL, Python, R
-- **Tools**: VS Code, Positron, RStudio, Databricks
-- **Databases**: MySQL, Azure
-- **Visualization**: Tableau, Power BI
-- **Version Control**: Git (GitHub)
-
----
-
-## 🗂️ Libraries
-- **Python**: Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn
+### Data Analysis and Visualization
+- Tableau, Power BI, Excel, Google Sheets
+- **Python**: Polars, Pandas, Numpy, Seaborn, MatPlotLib, Plotly, Scikit-learn
 - **R**: tidyr, dplyr, ggplot/ggridges/ggplotly, lubridate, stringr, shiny
+
+### Machine Learning and AI
+- TensorFlow, Keras, PyTorch, PySpark
+
+### Tools and Platforms
+- VS Code, Positron, Databricks, Git(GitHub), MySQL, Azure, PostgreSQL
 
 ---
 
