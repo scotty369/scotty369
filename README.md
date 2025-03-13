@@ -1,5 +1,5 @@
 # Hi, I'm Scott!
-### Data Scientist with experience in data analysis, reporting, statistical modeling, machine learning, and data modeling.
+### Data Scientist with experience in data analysis, visualization, reporting, statistical modeling, machine learning, and data modeling.
 
 ## My Resume: 
 
