@@ -37,6 +37,7 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 - [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc) - – Machine learning model predicting student performance.
 - [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services/blob/main/README.md) - Data analysis on streaming platform trends.
 - [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md) – Analyzing crime patterns and trends.
+- [Spatial Viz of the U.S.](https://scotty369.github.io/Blog_Project/projects/Spatial_View/) - Created a spatial visualization of accident counts across the U.S in R
 
 *Feel free to explore my projects for detailed analysis and visualization.*
 
