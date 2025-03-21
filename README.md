@@ -1,5 +1,5 @@
 # Hi, I'm Scott!
-### Data Scientist with experience in data analysis, visualization, reporting, statistical modeling, machine learning, and data modeling.
+### Data Scientist with experience in data analysis, big data programming, data visualization, machine learning, reporting, and statistical modeling
 
 ## My Resume: 
 
@@ -49,15 +49,18 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 - SQL, Python, R
 
 ### Data Analysis and Visualization
-- Tableau, Power BI, Excel, Google Sheets
+- Tableau, Looker Studio, Power BI, Excel, Google Sheets
 - **Python**: Polars, Pandas, Numpy, Seaborn, MatPlotLib, Plotly, Scikit-learn
 - **R**: tidyr, dplyr, ggplot/ggridges/ggplotly, lubridate, stringr, shiny
 
 ### Machine Learning and AI
-- TensorFlow, Keras, PyTorch, PySpark
+- TensorFlow, Keras, PyTorch
+
+### Big Data Programming
+- PySpark, Spark SQL
 
 ### Tools and Platforms
-- VS Code, Positron, Databricks, Git(GitHub), MySQL, Azure, PostgreSQL
+- VS Code, Databricks, RStudio, Positron, Docker, Git(GitHub), MySQL, Azure, PostgreSQL
 
 ---
 
