@@ -19,15 +19,14 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 
 ### Marcus Harris Foundation  
 **Data Entry Analyst, Intern** (December 2024 - Present) | Rexburg, ID  
-- Harvested data from the IRS tax-exempt organization database, gathering contact information of nonprofit organizations for marketing outreach campaigns.  
-- Analyzed email marketing campaign data, identifying trends and areas for improvement to enhance user engagement.  
-- Conducted data-driven analysis to optimize marketing efforts, providing actionable insights to improve campaign performance.  
+- Harvested and imported large volumes of data from the IRS tax-exempt organization database, using Python (Pandas) to clean and structure the data before inserting it into Excel for further organization.
+- Merged and manipulated multiple datasets using Pandas, streamlining data integration and ensuring consistency for analysis and reporting.
+- Generated visualizations and insights by analyzing trends in Python (Pandas, Matplotlib) and summarizing findings in Excel, providing data-driven recommendations to optimize marketing outreach strategies. 
 
 ### Brigham Young University - Idaho  
-**Financial and Cost Data Analyst** (January 2025 - Present) | Rexburg, ID  
-- Conducted cost analysis and financial forecasting for AI tutor implementation, identifying a cost-saving opportunity by optimizing TA and AI model usage.  
-- Provided financial insights and recommendations to support university administration in adopting AI-driven academic support while ensuring FERPA compliance and institutional alignment.  
-
+**Data Analyst** (January 2025 - Present) | Rexburg, ID  
+- Financial Forecasting & Cost Analysis – Utilized Python (Pandas, NumPy) to analyze financial data and forecast costs for AI tutor implementation, identifying optimal strategies to reduce expenses by balancing TA and AI model usage.
+-User Interface Development – Worked with JavaScript to enhance the AI model’s UI, improving user interaction and accessibility for a seamless academic support experience.
 ---
 
 ## 📚 Projects
