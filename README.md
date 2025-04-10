@@ -18,13 +18,13 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 - **Description**: My work experience as a Data Analyst
 
 ### Marcus Harris Foundation  
-**Data Entry Analyst, Intern** (December 2024 - Present) | Rexburg, ID  
+**Data Entry Analyst, Intern** (December 2023 - Present) | Rexburg, ID  
 - Harvested and imported large volumes of data from the IRS tax-exempt organization database, using Python (Pandas) to clean and structure the data before inserting it into Excel for further organization.
 - Merged and manipulated multiple datasets using Pandas, streamlining data integration and ensuring consistency for analysis and reporting.
 - Generated visualizations and insights by analyzing trends in Python (Pandas, Matplotlib) and summarizing findings in Excel, providing data-driven recommendations to optimize marketing outreach strategies. 
 
 ### Brigham Young University - Idaho  
-**Data Analyst** (January 2025 - Present) | Rexburg, ID  
+**Data Analyst** (January 2023 - Present) | Rexburg, ID  
 - Financial Forecasting & Cost Analysis – Utilized Python (Pandas, NumPy) to analyze financial data and forecast costs for AI tutor implementation, identifying optimal strategies to reduce expenses by balancing TA and AI model usage.
 -User Interface Development – Worked with JavaScript to enhance the AI model’s UI, improving user interaction and accessibility for a seamless academic support experience.
 ---
@@ -37,6 +37,7 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 - [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services/blob/main/README.md) - Data analysis on streaming platform trends.
 - [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md) – Analyzing crime patterns and trends.
 - [Spatial Viz of the U.S.](https://scotty369.github.io/Blog_Project/projects/Spatial_View/) - Created a spatial visualization of accident counts across the U.S in R
+- [Convenience Store Analysis in Databricks] - Created Easy and Complex Features to improve an ML model and its performance in predicting cumulative stores over c-stores
 
 *Feel free to explore my projects for detailed analysis and visualization.*
 
