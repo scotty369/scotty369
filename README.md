@@ -38,6 +38,7 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 - [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md) – Analyzing crime patterns and trends.
 - [Spatial Viz of the U.S.](https://scotty369.github.io/Blog_Project/projects/Spatial_View/) - Created a spatial visualization of accident counts across the U.S in R
 - Convenience Store Analysis in Databricks - Created Easy and Complex Features to improve an ML model and its performance in predicting cumulative stores over c-stores
+- [Astronomy EDA & ML Model](https://colab.research.google.com/drive/1KstDjMnTkpZebxBeTokU20rL1PY_sA2H) - Created KPIs, visualizations, and an ML model to predict star type using features of stars in the universe. 
 
 *Feel free to explore my projects for detailed analysis and visualization.*
 
