@@ -1,70 +1,95 @@
-# Hi, I'm Scott!
-### Data Scientist with experience in data analysis, big data programming, data visualization, machine learning, reporting, and statistical modeling
+# Hi, I'm Scott! 👋
 
-## My Resume: 
+### 🚀 Data Scientist | Big Data Engineer | Machine Learning Enthusiast
+
+Passionate about solving business problems with data, building scalable pipelines, and delivering impactful insights.
+
+---
+
+## 📄 My Resume
 
 [View My Resume (PDF)](https://github.com/scotty369/Resume-Quarto/blob/main/resume_scott.pdf)
 
 ---
 
-## 🚀 Portfolio
-Check out my personal portfolio for a more detailed overview of my skills and projects:  
-**[https://scotty369.github.io/](https://scotty369.github.io/myblog/about.html)**
+## 🌐 Portfolio
+Check out my personal portfolio for a more detailed overview of my skills and projects:
+
+**[Visit my Portfolio →](https://scotty369.github.io/myblog/about.html)**
 
 ---
 
-## 💻 Work Experience
+## 💼 Work Experience
 
-- **Description**: My work experience as a Data Analyst
+### Pioneer Commercial Cleaning  
+**Technology Consultant** (Jun 2025 – Present) | Remote  
+- Designed & implemented a unified **Snowflake data warehouse** integrating data from WinTeam, Paycom, and Cora.
+- Automated ETL with **Python, GitLab CI/CD, Snowflake, AWS S3**, reducing reporting lag.
+- Built **Metabase dashboards** for workforce, payroll, and ops KPIs.
+
+### Charles Town Casino  
+**Revenue Audit Clerk** (May 2025 – Present) | Remote  
+- Audited revenue data and operational reports using **Excel & Access**.
+- Ensured compliance by reconciling complex financial/operational data.
 
 ### Marcus Harris Foundation  
-**Data Entry Analyst, Intern** (December 2023 - Present) | Rexburg, ID  
-- Harvested and imported large volumes of data from the IRS tax-exempt organization database, using Python (Pandas) to clean and structure the data before inserting it into Excel for further organization.
-- Merged and manipulated multiple datasets using Pandas, streamlining data integration and ensuring consistency for analysis and reporting.
-- Generated visualizations and insights by analyzing trends in Python (Pandas, Matplotlib) and summarizing findings in Excel, providing data-driven recommendations to optimize marketing outreach strategies. 
+**Data Analyst, Intern** (Dec 2024 – Apr 2025) | Rexburg, ID  
+- Harvested IRS nonprofit data via **Python (Pandas)** and cleaned datasets for analysis.
+- Analyzed outreach data with **Matplotlib & Excel**, delivering actionable marketing insights.
 
-### Brigham Young University - Idaho  
-**Data Analyst** (January 2023 - Present) | Rexburg, ID  
-- Financial Forecasting & Cost Analysis – Utilized Python (Pandas, NumPy) to analyze financial data and forecast costs for AI tutor implementation, identifying optimal strategies to reduce expenses by balancing TA and AI model usage.
--User Interface Development – Worked with JavaScript to enhance the AI model’s UI, improving user interaction and accessibility for a seamless academic support experience.
----
-
-## 📚 Projects
-- **Description**: A collection of my personal projects showcasing my work in data analysis, statistical modeling, and machine learning.  
-
-- [Image Captioning Tool CNN](https://github.com/scotty369/Senior-Data-Science-Project/blob/main/README.md) - – Deep learning model for generating image captions.
-- [Student Performance Predictive ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc) - – Machine learning model predicting student performance.
-- [Steaming Services Analysis](https://github.com/scotty369/Streaming_Services/blob/main/README.md) - Data analysis on streaming platform trends.
-- [Crime Analysis](https://github.com/scotty369/Personal----Projects/blob/main/README.md) – Analyzing crime patterns and trends.
-- [Spatial Viz of the U.S.](https://scotty369.github.io/Blog_Project/projects/Spatial_View/) - Created a spatial visualization of accident counts across the U.S in R
-- Convenience Store Analysis in Databricks - Created Easy and Complex Features to improve an ML model and its performance in predicting cumulative stores over c-stores
-- [Astronomy EDA & ML Model](https://colab.research.google.com/drive/1KstDjMnTkpZebxBeTokU20rL1PY_sA2H) - Created KPIs, visualizations, and an ML model to predict star type using features of stars in the universe. 
-
-*Feel free to explore my projects for detailed analysis and visualization.*
+### Brigham Young University – Idaho  
+**Data Analyst** (Jan 2025 – Apr 2025) | Rexburg, ID  
+- Built forecasting models for AI tutor cost-benefit analysis using **Python (NumPy, Pandas)**.
+- Presented results via **Power BI dashboards** for strategic budgeting.
 
 ---
 
-## 🛠️ Tech Stack 
+## 📊 Featured Projects
+> A collection of projects showcasing skills in data engineering, analytics, ML, and visualization.
 
-### Programming and Querying Languages
-- SQL, Python, R
-
-### Data Analysis and Visualization
-- Tableau, Looker Studio, Power BI, Excel, Google Sheets
-- **Python**: Polars, Pandas, Numpy, Seaborn, MatPlotLib, Plotly, Scikit-learn
-- **R**: tidyr, dplyr, ggplot/ggridges/ggplotly, lubridate, stringr, shiny
-
-### Machine Learning and AI
-- TensorFlow, Keras, PyTorch
-
-### Big Data Programming
-- PySpark, Spark SQL
-
-### Tools and Platforms
-- VS Code, Databricks, RStudio, Positron, Docker, Git(GitHub), MySQL, Azure, PostgreSQL
+| Project | Tech Stack | Highlights |
+|---------|------------|-------------|
+| [C-Store Analytics App](https://huggingface.co/spaces/scotty369/cstore-app) | Databricks, PySpark, Streamlit, Docker | End-to-end analytics platform deployed on Hugging Face; integrates Databricks pipelines with interactive dashboards. |
+| [Convenience Store Data Engineering](https://github.com/scotty369/Convenience_Store_DE) | Databricks, PySpark, Plotly | ETL pipelines processing millions of transactions; advanced feature engineering for retail insights. |
+| [Student Performance ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc) | Python, Scikit-learn, Seaborn | Predicted academic performance with regression & Random Forest. |
+| [Astronomy EDA & ML](https://colab.research.google.com/drive/1KstDjMnTkpZebxBeTokU20rL1PY_sA2H) | Python, Matplotlib, XGBoost | Explored star classification; built predictive ML models. |
+| [Image Captioning Tool (CNN)](https://github.com/scotty369/Senior-Data-Science-Project) | PyTorch, TensorFlow | Deep learning model for image caption generation. |
+| [Streaming Services Analysis](https://github.com/scotty369/Streaming_Services) | Pandas, Seaborn | Trend analysis of streaming platforms. |
+| [Crime Data Analysis](https://github.com/scotty369/Personal----Projects) | Python, GeoPandas | Mapped and analyzed crime patterns. |
+| [Spatial Viz of U.S. Accidents](https://scotty369.github.io/Blog_Project/projects/Spatial_View/) | R, ggplot2, Shiny | Interactive visualization of accident counts across the U.S. |
 
 ---
 
-## 👋🏻 Connect with Me on LinkedIn and Facebook!
-- LinkedIn [https://www.linkedin.com/in/scott-townsend-0ab515262/] – Let’s connect and grow together!
-- Facebook [https://www.facebook.com/scott.townsend.1650332/] - Add me if you want to chat!
+## 🛠️ Tech Stack
+
+**Programming & Querying**  
+Python | R | SQL
+
+**Data Analysis & Visualization**  
+Pandas · NumPy · Polars · Matplotlib · Seaborn · Plotly · ggplot2 · Tableau · Power BI · Looker Studio · Excel
+
+**Machine Learning & AI**  
+Scikit-learn · TensorFlow · PyTorch · Keras
+
+**Big Data & Cloud**  
+Databricks · PySpark · Spark SQL · Snowflake · AWS (S3, EC2) · Firebase (Auth, Realtime DB, Hosting)
+
+**Other Tools**  
+VS Code · Docker · Git/GitHub/GitLab · Prefect · Hugging Face · MySQL · PostgreSQL · RStudio · Positron
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.S. Data Science**, Brigham Young University – Idaho (Apr 2025)  
+  Minor: Statistics  
+- **Google Cloud Professional Data Engineer** *(In Progress)*
+
+---
+
+## 🤝 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/scott-townsend-0ab515262/)  
+- [Facebook](https://www.facebook.com/scott.townsend.1650332/)
+
+> 💬 Always open to collaborations, freelance opportunities, and meaningful discussions around data, analytics, and machine learning.
