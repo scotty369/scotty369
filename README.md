@@ -22,13 +22,13 @@ Check out my personal portfolio for a more detailed overview of my skills and pr
 ## 💼 Work Experience
 
 ### Pioneer Commercial Cleaning  
-**Technology Consultant** (Jun 2025 – Present) | Remote  
+**Technology Consultant** (Jun 2025 – Present) | Potomac, MD  
 - Designed & implemented a unified **Snowflake data warehouse** integrating data from WinTeam, Paycom, and Cora.
 - Automated ETL with **Python, GitLab CI/CD, Snowflake, AWS S3**, reducing reporting lag.
 - Built **Metabase dashboards** for workforce, payroll, and ops KPIs.
 
 ### Charles Town Casino  
-**Revenue Audit Clerk** (May 2025 – Present) | Remote  
+**Revenue Audit Clerk** (May 2025 – Present) |  Charles Town, WV
 - Audited revenue data and operational reports using **Excel & Access**.
 - Ensured compliance by reconciling complex financial/operational data.
 
