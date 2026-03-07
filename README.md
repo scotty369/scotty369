@@ -1,95 +1,129 @@
 # Hi, I'm Scott! 👋
 
-### 🚀 Data Scientist | Big Data Engineer | Machine Learning Enthusiast
+### Data Engineer | Analytics Engineer | Snowflake | SQL | Python
 
-Passionate about solving business problems with data, building scalable pipelines, and delivering impactful insights.
+I build **data platforms, pipelines, and analytics systems** that transform raw operational data into actionable insights for business decision-making.
+
+My work focuses on the **modern data stack**, including data warehousing, ELT pipelines, and business intelligence platforms.
 
 ---
 
-## 📄 My Resume
+## 📄 Resume
 
 [View My Resume (PDF)](https://github.com/scotty369/Resume-Quarto/blob/main/resume_scott.pdf)
 
 ---
 
 ## 🌐 Portfolio
-Check out my personal portfolio for a more detailed overview of my skills and projects:
+
+Explore more projects and technical writing here:
 
 **[Visit my Portfolio →](https://scotty369.github.io/myblog/about.html)**
 
 ---
 
-## 💼 Work Experience
+# 💼 Professional Experience
 
-### Pioneer Commercial Cleaning  
-**Technology Consultant** (Jun 2025 – Present) | Potomac, MD  
-- Designed & implemented a unified **Snowflake data warehouse** integrating data from WinTeam, Paycom, and Cora.
-- Automated ETL with **Python, GitLab CI/CD, Snowflake, AWS S3**, reducing reporting lag.
-- Built **Metabase dashboards** for workforce, payroll, and ops KPIs.
+## Pioneer Commercial Cleaning  
+**Data & Analytics Consultant**  
+Jun 2025 – Present | Potomac, MD
 
-### Charles Town Casino  
-**Revenue Audit Clerk** (May 2025 – Present) |  Charles Town, WV
-- Audited revenue data and operational reports using **Excel & Access**.
-- Ensured compliance by reconciling complex financial/operational data.
-
-### Marcus Harris Foundation  
-**Data Analyst, Intern** (Dec 2024 – Apr 2025) | Rexburg, ID  
-- Harvested IRS nonprofit data via **Python (Pandas)** and cleaned datasets for analysis.
-- Analyzed outreach data with **Matplotlib & Excel**, delivering actionable marketing insights.
-
-### Brigham Young University – Idaho  
-**Data Analyst** (Jan 2025 – Apr 2025) | Rexburg, ID  
-- Built forecasting models for AI tutor cost-benefit analysis using **Python (NumPy, Pandas)**.
-- Presented results via **Power BI dashboards** for strategic budgeting.
+- Designed and implemented a **Snowflake data warehouse architecture** integrating operational, payroll, and workforce data from WinTeam, Paycom, and Cora.
+- Built automated **ELT pipelines using SQL and Python**, orchestrated through **GitLab CI/CD**, enabling near real-time ingestion of operational data.
+- Developed **analytics-ready warehouse tables using SQL transformations, CTEs, and stored procedures**.
+- Created **Power BI and Metabase dashboards** used by leadership to track workforce performance, payroll costs, and operational KPIs.
 
 ---
 
-## 📊 Featured Projects
-> A collection of projects showcasing skills in data engineering, analytics, ML, and visualization.
+## Charles Town Casino  
+**Revenue Audit Clerk**  
+May 2025 – Present | Charles Town, WV
 
-| Project | Tech Stack | Highlights |
-|---------|------------|-------------|
-| [C-Store Analytics App](https://huggingface.co/spaces/scotty369/cstore-app) | Databricks, PySpark, Streamlit, Docker | End-to-end analytics platform deployed on Hugging Face; integrates Databricks pipelines with interactive dashboards. |
-| [Convenience Store Data Engineering](https://github.com/scotty369/Convenience_Store_DE) | Databricks, PySpark, Plotly | ETL pipelines processing millions of transactions; advanced feature engineering for retail insights. |
-| [Student Performance ML Model](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc) | Python, Scikit-learn, Seaborn | Predicted academic performance with regression & Random Forest. |
-| [Astronomy EDA & ML](https://colab.research.google.com/drive/1KstDjMnTkpZebxBeTokU20rL1PY_sA2H) | Python, Matplotlib, XGBoost | Explored star classification; built predictive ML models. |
-| [Image Captioning Tool (CNN)](https://github.com/scotty369/Senior-Data-Science-Project) | PyTorch, TensorFlow | Deep learning model for image caption generation. |
-| [Streaming Services Analysis](https://github.com/scotty369/Streaming_Services) | Pandas, Seaborn | Trend analysis of streaming platforms. |
-| [Crime Data Analysis](https://github.com/scotty369/Personal----Projects) | Python, GeoPandas | Mapped and analyzed crime patterns. |
-| [Spatial Viz of U.S. Accidents](https://scotty369.github.io/Blog_Project/projects/Spatial_View/) | R, ggplot2, Shiny | Interactive visualization of accident counts across the U.S. |
+- Analyzed and reconciled complex revenue and operational datasets using **Excel, Access, and SQL Server**.
+- Generated audit reports identifying discrepancies and ensuring regulatory compliance.
+- Managed and validated high-volume financial transaction data.
 
 ---
 
-## 🛠️ Tech Stack
+## Marcus Harris Foundation  
+**Data Analyst (Intern)**  
+Dec 2024 – Apr 2025
 
-**Programming & Querying**  
-Python | R | SQL
-
-**Data Analysis & Visualization**  
-Pandas · NumPy · Polars · Matplotlib · Seaborn · Plotly · ggplot2 · Tableau · Power BI · Looker Studio · Excel
-
-**Machine Learning & AI**  
-Scikit-learn · TensorFlow · PyTorch · Keras
-
-**Big Data & Cloud**  
-Databricks · PySpark · Spark SQL · Snowflake · AWS (S3, EC2) · Firebase (Auth, Realtime DB, Hosting)
-
-**Other Tools**  
-VS Code · Docker · Git/GitHub/GitLab · Prefect · Hugging Face · MySQL · PostgreSQL · RStudio · Positron
+- Built Python workflows using **Pandas** to collect and process nonprofit datasets from the IRS tax-exempt organization database.
+- Cleaned and standardized large datasets to enable reliable cross-source analytics.
+- Delivered insights on marketing outreach performance through data analysis and reporting.
 
 ---
 
-## 🎓 Education & Certifications
+## Brigham Young University – Idaho  
+**Data Analyst**  
+Jan 2025 – Apr 2025
 
-- **B.S. Data Science**, Brigham Young University – Idaho (Apr 2025)  
-  Minor: Statistics  
-- **Google Cloud Professional Data Engineer** *(In Progress)*
+- Built financial forecasting models using **Python (Pandas, NumPy)** to evaluate AI tutoring deployment strategies.
+- Conducted cost-benefit analyses comparing AI-assisted tutoring vs traditional teaching assistants.
+- Delivered findings through **Power BI dashboards** and data visualizations.
 
 ---
 
-## 🤝 Let’s Connect!
+# 🚀 Featured Data Engineering & Analytics Projects
 
-- [LinkedIn](https://www.linkedin.com/in/scott-townsend-0ab515262/)  
-- [Facebook](https://www.facebook.com/scott.townsend.1650332/)
+## Modern Data Engineering Projects
 
-> 💬 Always open to collaborations, freelance opportunities, and meaningful discussions around data, analytics, and machine learning.
+| Project | Tech | Description |
+|------|------|-------------|
+| [Convenience Store Data Engineering](https://github.com/scotty369/Convenience_Store_DE) | Databricks · PySpark · SQL | Built scalable ETL pipelines processing millions of retail transactions and generating analytical datasets. |
+| [C-Store Analytics Platform](https://huggingface.co/spaces/scotty369/cstore-app) | Databricks · Streamlit · Docker | End-to-end analytics platform integrating Databricks pipelines with interactive dashboards. |
+
+---
+
+## Analytics & Visualization
+
+| Project | Tech | Description |
+|------|------|-------------|
+| [Spatial Visualization of U.S. Accidents](https://scotty369.github.io/Blog_Project/projects/Spatial_View/) | R · Shiny · ggplot2 | Interactive geographic visualization of accident data across the United States. |
+| [Streaming Services Analysis](https://github.com/scotty369/Streaming_Services) | Python · Pandas | Exploratory data analysis of streaming platform trends and market growth. |
+
+---
+
+## Machine Learning Projects
+
+| Project | Tech | Description |
+|------|------|-------------|
+| [Student Performance Prediction](https://colab.research.google.com/drive/1romN7rSYlLUdeQDgiWT-y3XRiqSOpjlc) | Python · Scikit-learn | Built regression and ensemble models to predict student academic outcomes. |
+| [Astronomy Classification](https://colab.research.google.com/drive/1KstDjMnTkpZebxBeTokU20rL1PY_sA2H) | Python · XGBoost | ML model for star classification using astrophysics datasets. |
+
+---
+
+# 🛠 Tech Stack
+
+### Data Engineering
+SQL • Python • Snowflake • Databricks • PySpark • Spark SQL • ETL/ELT Pipelines • Data Warehousing
+
+### Data Analysis
+Pandas • NumPy • Polars • Excel • Power BI • Tableau • Plotly
+
+### Machine Learning
+Scikit-learn • TensorFlow • PyTorch
+
+### Cloud & Infrastructure
+AWS (S3, EC2) • Docker • Git • GitHub • GitLab CI/CD • Firebase
+
+---
+
+# 🎓 Education
+
+**B.S. Data Science**  
+Brigham Young University – Idaho  
+Minor: Statistics  
+Graduated April 2025
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/scott-townsend-0ab515262/
+- Portfolio: https://scotty369.github.io
+
+---
+
+⭐ I’m currently interested in opportunities in **Data Engineering, Analytics Engineering, and BI Engineering**, where I can build scalable data platforms and analytics systems.
