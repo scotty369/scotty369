@@ -25,7 +25,7 @@ Explore more projects and technical writing here:
 # 💼 Professional Experience
 
 ## Pioneer Commercial Cleaning  
-**Data & Analytics Consultant**  
+**Data & Analytics Engineer**  
 Jun 2025 – Present | Potomac, MD
 
 - Designed and implemented a **Snowflake data warehouse architecture** integrating operational, payroll, and workforce data from WinTeam, Paycom, and Cora.
