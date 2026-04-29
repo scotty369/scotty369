@@ -21,7 +21,6 @@ Explore more projects and technical writing here:
 
 ## Pioneer Commercial Cleaning  
 **Data & Analytics Engineer**  
-Jun 2025 – Present | Potomac, MD
 
 - Designed and implemented a **Snowflake data warehouse architecture** integrating operational, payroll, and workforce data from WinTeam, Paycom, and Cora.
 - Built automated **ELT pipelines using SQL and Python**, orchestrated through **GitLab CI/CD**, enabling near real-time ingestion of operational data.
@@ -32,7 +31,6 @@ Jun 2025 – Present | Potomac, MD
 
 ## Charles Town Casino  
 **Revenue Audit Clerk**  
-May 2025 – Present | Charles Town, WV
 
 - Analyzed and reconciled complex revenue and operational datasets using **Excel, Access, and SQL Server**.
 - Generated audit reports identifying discrepancies and ensuring regulatory compliance.
@@ -42,7 +40,6 @@ May 2025 – Present | Charles Town, WV
 
 ## Marcus Harris Foundation  
 **Data Analyst (Intern)**  
-Dec 2024 – Apr 2025
 
 - Built Python workflows using **Pandas** to collect and process nonprofit datasets from the IRS tax-exempt organization database.
 - Cleaned and standardized large datasets to enable reliable cross-source analytics.
@@ -52,7 +49,6 @@ Dec 2024 – Apr 2025
 
 ## Brigham Young University – Idaho  
 **Data Analyst**  
-Jan 2025 – Apr 2025
 
 - Built financial forecasting models using **Python (Pandas, NumPy)** to evaluate AI tutoring deployment strategies.
 - Conducted cost-benefit analyses comparing AI-assisted tutoring vs traditional teaching assistants.
