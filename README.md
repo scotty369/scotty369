@@ -6,11 +6,6 @@ I build **data platforms, pipelines, and analytics systems** that transform raw 
 
 My work focuses on the **modern data stack**, including data warehousing, ELT pipelines, and business intelligence platforms.
 
----
-
-## 📄 Resume
-
-[View My Resume (PDF)](https://github.com/scotty369/Resume-Quarto/blob/main/resume_scott.pdf)
 
 ---
 
