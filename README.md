@@ -8,7 +8,7 @@ I build **data platforms, pipelines, and full-stack applications** that turn raw
  
 ## 🌐 Portfolio
  
-**[Visit my Portfolio →](https://scotty369.github.io/myblog/about.html)**
+**[Visit my Portfolio →](https://scottow.netlify.app/)**
  
 ---
  
